@@ -1,0 +1,6 @@
+1. Read a text file.
+2. Find the frequency of each char and save the value as hashmap.
+3. Make a forest of trees using the hashmap.
+
+4. Take the nodes with minimal weight from our forest of trees and yield a new tree from them.
+5. continue untill the tree is compelete.
